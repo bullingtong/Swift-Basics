@@ -57,7 +57,7 @@ else{
 
 var force = mass * acceleration
 
-print("Force =\(force)")
+print("Force = \(force)")
 
 print("\(distance) is the distance")
 
@@ -73,9 +73,9 @@ switch choice{
 case 1:
     print("You chose 1.")
 case 2:
-    print("You chose 2")
+    print("You chose 2.")
 case 3:
-    print("You chose 3")
+    print("You chose 3.")
 default:
     print("You made an unknown choice.")
 }
